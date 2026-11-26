@@ -1,1 +1,5 @@
-window.BUDDY_CONFIG = { url: 'https://efhkwqeohrawesghzhwc.supabase.co', key: 'sb_publishable_QV1Nr3ktRGgD5BfXhE9plw_NYnOgdN9', adminEmail: 'mi.supernova26@gmail.com' };
+window.BUDDY_CONFIG = {
+  url: 'https://skwlhzlxiqqgekprtzlu.supabase.co',
+  key: 'sb_publishable_74_6zdeu9yOltG5BwhUmRg_xEDs0ABD',
+  adminEmail: 'buddy.test@example.com'
+};
